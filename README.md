@@ -1,5 +1,5 @@
 # Done By- VISHNU DEEPAK
-# TSV-GRIP-MAY2022-INTERNSHIP-TASK
+# TSF-GRIP-MAY2022-INTERNSHIP-TASK
 ## The Sparks Foundation - GRIP - Data Science and Business Analytics - MAY'2022
 ### TASK 1 : Prediction using supervised ML
 ### Author : Vishnu Deepak
